@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+import public "B.proto";
+
+
+/**/
+message Message21
+{
+	Enum_628 Field87 = 1;/**/
+
+	string Field62 = 2;/**/
+
+	/**/
+	enum Enum_246
+	{
+		VALUE_8643 = 0;/**/
+	}
+
+}//END
+
+/**/
+enum Enum_628
+{
+	VALUE_3444 = 0;/**/
+}
+
